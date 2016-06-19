@@ -64,6 +64,8 @@ Note : Could be improved with L1/L2 devices
 
 # Ressources :
 
+https://habrahabr.ru/post/244475/
+
 http://wiki.openstreetmap.org/wiki/RTKLIB
 
 http://cours-fad-public.ensg.eu/course/view.php?id=85
