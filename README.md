@@ -70,5 +70,7 @@ http://cours-fad-public.ensg.eu/course/view.php?id=85
 
 http://marcotte-ag.no-ip.org:8080/geomatic/
 
+https://github.com/drotek/SMARTNAV-RTK/wiki
+
 Discussion I start and interesting information (in french) : http://www.forumsig.org/showthread.php/41183-RTKlib-Retours-d-utilisateurs
 
