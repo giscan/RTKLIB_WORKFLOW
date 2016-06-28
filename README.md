@@ -76,3 +76,7 @@ https://github.com/drotek/SMARTNAV-RTK/wiki
 
 Discussion I start and interesting information (in french) : http://www.forumsig.org/showthread.php/41183-RTKlib-Retours-d-utilisateurs
 
+http://www.afhy.fr/images/pdf/Rapports/UV54_2016/poster_gnss_PPP_GTX.pdf
+
+http://www.gps.gov/cgsic/meetings/2012/lyle.pdf
+
